@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 165px 0;
+}
+
+.card {
+    padding: 20px 40px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.face {
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 50%;
+    border-color: black;
+}
